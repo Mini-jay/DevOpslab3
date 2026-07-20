@@ -1,3 +1,3 @@
 def register(): 
-    print("Reg module")
+    print("Registration module")
 register()
