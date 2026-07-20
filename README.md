@@ -1,4 +1,3 @@
 # DevOpslab3
-
-lab exercise - 1
+lab ex - 3
 
